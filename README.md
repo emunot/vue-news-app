@@ -1,4 +1,5 @@
 # vue-news-app
+[a link](https://vue-newsfeeds.firebaseapp.com)
 A vue js web app to stream news stories from several sources including BBC, CNN, AP etc using newsapi.org API
 ![Alt text](/screenshot.png?raw=true "Vue news app screenshot")
 
